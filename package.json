@@ -1,0 +1,22 @@
+{
+  "name": "todolistapi",
+  "version": "1.0.0",
+  "description": "restful api implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vphone/todolistapi.git"
+  },
+  "author": "vphone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vphone/todolistapi/issues"
+  },
+  "homepage": "https://github.com/vphone/todolistapi#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
